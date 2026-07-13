@@ -1,0 +1,98 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Type Checking
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# LangGraph / AI
+checkpoints/
+memory/
+vectorstore/
+chroma_db/
+faiss_index/
+
+# SQLite Databases
+*.db
+*.sqlite3
+
+# FastAPI
+instance/
+
+# Temporary Files
+temp/
+tmp/
+cache/
+
+# Secrets
+secrets.json
+credentials.json
+
+# Node (if frontend exists)
+node_modules/
+.next/
+dist/
+
+# Uploaded files
+uploads/
+data/
+
+# Generated Reports
+reports/
+research_output/

@@ -1,0 +1,43 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# Mistral AI
+mistralai
+langchain-mistralai
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Async Support
+aiohttp
+
+# Logging & Utilities
+rich
+tenacity
+
+# API Backend (Optional)
+fastapi
+uvicorn
+
+# Structured Output
+jsonschema
+
+# Token Counting
+tiktoken
+
+# Development
+ipython
+jupyter
